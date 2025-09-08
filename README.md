@@ -37,6 +37,8 @@ Unemployed, Retired, and Students show higher default risks compared to Employed
 
 - Time-Series of Claim Types
 Claims of all types are increasing over time, with Theft and Natural Disaster claims rising fastest.
+<img width="1371" height="865" alt="image" src="https://github.com/user-attachments/assets/620a6cae-e616-4b33-857e-cfc5c461b3b0" />
+
 
 Summary
 The customer base leans heavily towards higher-risk categories, with a significant default rate and low claim approvals. This suggests a need for stricter loan approval criteria, improved fraud detection, and credit improvement programs.
